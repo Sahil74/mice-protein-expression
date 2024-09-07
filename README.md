@@ -11,6 +11,8 @@
 - Protein expression classification is complex, requiring a balance between accuracy and efficiency. With 77 protein expressions measured in eight classes of control and Down syndrome mice, 
   the challenge is to identify discriminant proteins across these classes, making it a multi-class classification problem.
 
+![Diagram](./.png)
+
   ## Technical Requirements
 - Applied Mathematics: Essential for calculating accuracy and other metrics.
 - Programming: Python for implementing machine learning algorithms.
